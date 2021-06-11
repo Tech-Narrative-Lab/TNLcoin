@@ -1,7 +1,7 @@
 # Writer      : eddie Lopez
 # Author      : Alfrick Opidi
 # Date        : 30 April 2021
-# Last updated: 07 May 2021
+# Last updated: 31 May 2021
 # For         : TechRes A
 # Notes       : comments in green explaining everything (which may be super helpful to non-python users). Also, pulled this from an online tutorial (which is why there is both a "writer" and "author" label). Will use this as a proof of concept. Probably rewrite later with a better model and then can claim authorship at that point. Using this more so to understand.
 
